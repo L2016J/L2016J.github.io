@@ -1,2 +1,3 @@
-# L2016J.github.io
-分享一些有趣的东西
+# 个人博客
+
+https://l2016j.github.io/
